@@ -1,0 +1,8 @@
+# Ignore node_modules and package-lock.json in backend1 directory
+backend1/node_modules/
+backend1/package-lock.json
+backend1/dist/
+
+# Ignore node_modules and package-lock.json in chess directory
+chess/node_modules/
+chess/package-lock.json
